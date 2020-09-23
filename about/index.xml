@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Ndee N</title>
-    <link>http://localhost:1313/Nkem_Portfolio/about/</link>
+    <link>https://ndeekem.github.io/Nkem_DS_Portfolio2/about/</link>
     <description>Recent content in About on Ndee N</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/Nkem_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ndeekem.github.io/Nkem_DS_Portfolio2/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
